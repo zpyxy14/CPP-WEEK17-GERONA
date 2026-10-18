@@ -21,7 +21,8 @@ Features
 
 Requirements
 
-- Python 3 (no external packages)
+- Python 3
+- A terminal or code editor, Visual Studio Code
 
 How to Run
 
